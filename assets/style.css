@@ -1,8 +1,6 @@
-body{
-    padding-top: 0%;
-
-}
-.menu {
-    position: fixed;
-
+.bg-Object {
+    background-image: url('images/canCup.webp');
+    background-size: cover;
+    height: 100%;
+    
 }
