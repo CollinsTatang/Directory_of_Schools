@@ -1,6 +1,17 @@
-.bg-Object {
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.bg {
     background-image: url('images/canCup.webp');
     background-size: cover;
-    height: 100%;
-    
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+}  
+
+.landing-text {
+    text-align: center;
 }
