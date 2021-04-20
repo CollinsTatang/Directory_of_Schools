@@ -24,13 +24,3 @@ body {
 footer {
     background-color: black;
 }
-.footers-menu {
-    display: flex;
-    justify-content: center;
-    
-    
-}
-a {
-    text-decoration: none;
-    text-decoration-color: white;
-}
