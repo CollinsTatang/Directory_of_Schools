@@ -21,5 +21,11 @@ body {
     color: #e17e65;
     text-align: center;
 }
-.search-box {
+footer {
+    background-color: black;
+}
+.footers-menu {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
 }
