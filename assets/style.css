@@ -17,10 +17,12 @@ body {
 .landing-text {
     text-align: center;
 }
+
 .section1-header { 
     color: #e17e65;
     text-align: center;
 }
+
 footer {
     background-color: black;
 }
@@ -28,6 +30,7 @@ footer {
 .bg2 {
     background-color: rgb(47, 50, 53);
 }
+
 #mg {
     color: blue;
   }
