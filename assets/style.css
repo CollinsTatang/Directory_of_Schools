@@ -1,37 +1,36 @@
-body {  
-   width: 100%;
-   height: 100%;
+body {
+  width: 100%;
+  height: 100%;
 }
 
 .bg {
-    background-image: url('images/canCup.webp');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    display: block;
-    padding-top: 10%;
-    padding-bottom: 3%;
-}  
-
-.landing-text {
-    text-align: center;
+  background-image: url('images/canCup.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  display: block;
+  padding-top: 10%;
+  padding-bottom: 3%;
 }
 
-.section1-header { 
-    color: #e17e65;
-    text-align: center;
+.landing-text {
+  text-align: center;
+}
+
+.section1-header {
+  color: #e17e65;
+  text-align: center;
 }
 
 footer {
-    background-color: black;
+  background-color: black;
 }
 
 .bg2 {
-    background-color: rgb(47, 50, 53);
+  background-color: rgb(47, 50, 53);
 }
 
 #mg {
-    color: blue;
+  color: blue;
 }
-  
