@@ -13,15 +13,6 @@ body {
   padding-top: 10%;
   padding-bottom: 3%;
 }
-.bimage {
-    background-image: url('images/bgimage.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    display: block;
-    
-  }
 
 .landing-text {
   text-align: center;
@@ -44,6 +35,7 @@ footer {
 #mg {
   color: blue;
 }
+
 .spacing {
-    margin-top: 125px;
+  margin-top: 125px;
 }
