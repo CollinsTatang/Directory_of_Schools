@@ -2,8 +2,7 @@
 
 ![](https://github.com/CollinsTatang/Directory_of_Schools.git)
 
-## Capstone Project: Online shop for electronics
-
+## Capstone Project: Online School Directory web application
  This project is a supposed School Directory web application use to display the school content . It consists of three pages and is responsive to mobile and desktop screens.
 
 ![screenshot](assets/images/colscreen.png)
