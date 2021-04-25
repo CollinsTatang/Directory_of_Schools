@@ -45,7 +45,7 @@ footer {
 }
 
 #bg-hcolor {
-  background-color: orange;
+  background-color: #ff0000;
 }
 
 #social-col {
@@ -57,5 +57,5 @@ footer {
 }
 
 #social-col3 {
-  background-color: blue;
+  background-color: rgb(38, 38, 226);
 }
